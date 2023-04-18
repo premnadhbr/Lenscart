@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fnav{ 
+    display: flex;
+    justify-content: space-around;  
+    align-items: center; 
+}
+.fnav input{
+    width: 300px;
+    height: 27px; 
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+    text-align: center;
+    border: solid 1px;
+}
+.fnav p{
+    font-size: 17px;
+}
+.snav{
+align-items: center;
+justify-content: space-between;
+display: flex;
+width: 100%;
+background-color: rgb(254, 250, 250);  
+}
+.snav img{
+    width: 6%;
+    padding: 5px;
+}
+.snav li{
+    list-style: none;
+    margin-left: 8px;
+}
+.lens img{
+    width: 24%;
+    border: 2px solid white;
+}
+.lens{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(250, 246, 246);
+    padding: 15px;
+}
+.main img{
+   width: 100%;  
+}
+.cart{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 15px;
+}
+.ojos{
+    width: 80%;
+    margin: 0 auto;
+}
+.ojos img{
+    width: 100%;
+    height: 100%;
+}
+.banner-img img{
+width: 50%;
+height: 50%;
+}
+.banner-img{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.cart .cartimage img{
+    width: 95%;
+    height: 148px;
+}
+.cartimage{
+    text-align: center;
+}
+.cartimage button{
+    background-color: aqua;
+    width: 100px;
+    height: 33px;
+    border-radius: 2px;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 550;
+}
+.banner h2{
+    margin: 15px 0;
+ text-align: center;
+}
+.banner-brand{
+    width: 100%;
+    height: 100%;
+}
+.banner-brand img{
+    width: 100%;
+    height: 100%;
+}
+.contact-lenses{
+    display: flex;
+    column-gap: 13px;
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    margin-bottom: 20px;
+}
+.contact-lenses img{
+    width: 50%;
+    height: 50%;
+}
+.eye-glasses div img{
+    width: 32%;
+}
+.eye-glasses div{
+  width: 85%;
+  height: 100%;
+  margin: 15px auto 25px;
+}
+.eye-glasses h2{
+    margin-bottom: 12px;
+}
+.readers-banner{
+    width: 100%;
+    height: 100%;
+    margin: 15px 0;
+}
+.readers-banner img{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    width: 100%;
+    margin-top: 40px;
+    height: 550px;
+    background-color: #000064;
+}
+.footer-head{
+    width: 90%;
+    margin: 0 auto 30px;
+    color: #fff;
+}
+.footer-head h1{
+  padding: 15px 0;
+  font-size: 40px;
+  font-weight: 400;
+}
+.footer-head p{
+    line-height: 23px;
+}
+.sunglasses hr{
+    width: 340px;
+}
+.sunglasses p{
+    color: #fff;
+}
+.footer-headings{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.lenses{
+    display: flex;
+    justify-content: space-between;
+}
+.lenses i{
+    color: #fff;
+    padding-bottom: 7px;
+}
+.services{
+    display: flex;
+    justify-content: space-around;
+    flex: 2;
+    margin-top: 20px;
+}
+.services-main{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-right-section{
+    display: flex;
+    flex-direction: column;
+}
+.services ul li{
+    list-style: none;
+    color: #f4f4f4;
+    padding-bottom: 8px;
+}
+.footer-right-section{
+    flex: 1;
+    margin-top: 50px;
+    text-align: center;
+}
+.footer-right-section img{
+    padding-right:5px;
+}
+.contents{
+    padding: 12px;
+    color: #fff;
+}
+.contents p{
+    font-size: 15px;
+}
+
+
+
+    
